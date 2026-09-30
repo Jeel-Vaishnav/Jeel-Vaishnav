@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm a CS & Engineering student 💻<br>- 🔭 **Currently working on:** Computer vision systems using OpenCV & MediaPipe, and full-stack AI web apps.<br>- 🌱 **Learning & Exploring:** IoT sensor integration and automated quality control pipelines.<br>- 💬 **Ask me about:** Python, C, machine learning, and building real-world software solutions.<br>- 🐾 **Fun fact:** Passionate about technology, building practical tools, and cats!
+ Hi, I'm a CS & Engineering student 💻<br>- 🔭 **Currently working on:** Computer vision systems using OpenCV & MediaPipe, and full-stack AI web apps.<br>- 🌱 **Learning & Exploring:** IoT sensor integration and automated quality control pipelines.<br>- 💬 **Ask me about:** Python, C, machine learning, and building real-world software solutions.<br>- 🐾 **Fun fact:** Passionate about technology, building practical tools, and cats!
 
 
 ## 🌐 Socials:
